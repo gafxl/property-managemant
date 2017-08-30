@@ -9,7 +9,7 @@ import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
 
 /**
- * <p>验证码相关服务应用入口。</p>
+ * <p>应用入口。</p>
  *
  * 创建日期 2017年8月2日
  * @author txl
